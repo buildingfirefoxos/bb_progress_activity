@@ -1,0 +1,17 @@
+{
+  "name": "bb_progress_activity",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_progress_activity",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Progress and activity  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
